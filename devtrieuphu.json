@@ -1,46 +1,26 @@
 [
-    [
-        {
-            q: 'Javascript là được chạy ở môi trường nào',
-            a: 'dap an a',
-            b: 'dap an b',
-            c: 'dap an c',
-            d: 'dap an d',
-            r: 'a'
-        },
-        {
-            q: 'Cau hoi so 1 level 0',
-            a: 'dap an a',
-            b: 'dap an b',
-            c: 'dap an c',
-            d: 'dap an d',
-            r: 'a'
-        },
-        {
-            q: 'Cau hoi so 2 level 0',
-            a: 'dap an a',
-            b: 'dap an b',
-            c: 'dap an c',
-            d: 'dap an d',
-            r: 'a'
-        },
-    ],
-    [
-        {
-            q: 'Cau hoi so 0 level 1',
-            a: 'dap an a',
-            b: 'dap an b',
-            c: 'dap an c',
-            d: 'dap an d',
-            r: 'a'
-        },
-        {
-            q: 'Cau hoi so 1 level 1',
-            a: 'dap an a',
-            b: 'dap an b',
-            c: 'dap an c',
-            d: 'dap an d',
-            r: 'a'
-        }
-    ],
+   {
+      "q": "Javascript là được chạy ở môi trường nào",
+      "a": "dap an a",
+      "b": "dap an b",
+      "c": "dap an c",
+      "d": "dap an d",
+      "r": "a"
+   },
+   {
+      "q": "Cau hoi so 1 level 0",
+      "a": "dap an a",
+      "b": "dap an b",
+      "c": "dap an c",
+      "d": "dap an d",
+      "r": "a"
+   },
+   {
+      "q": "Cau hoi so 2 level 0",
+      "a": "dap an a",
+      "b": "dap an b",
+      "c": "dap an c",
+      "d": "dap an d",
+      "r": "a"
+   }
 ]
